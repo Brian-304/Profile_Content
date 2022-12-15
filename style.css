@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Balsamiq Sans', cursive;
+    }
+
+.image {
+    height: 20px;
+}
+
+.image1{
+    height: 85px;
+}
+
+.image2 {
+    height: 60px;
+}
+
+.flex {
+    display: flex;
+}
